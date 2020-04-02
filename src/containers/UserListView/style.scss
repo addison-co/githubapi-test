@@ -1,0 +1,16 @@
+.UserListView {
+  width: 100%;
+  height: 100%;
+
+  padding: 20px 20px;
+
+  .Content {
+    display: grid;
+    gap: 20px 20px;
+    grid-template-columns: repeat((5, calc((100% - 120px) / 5)));
+
+    .signleUser {
+      width: 100%;
+    }
+  }
+}
