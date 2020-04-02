@@ -1,3 +1,3 @@
-# webpack_base
+# githubapi-test
 
 React + Webpack + ESLint + DotENV + ...
